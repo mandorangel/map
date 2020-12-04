@@ -1,2 +1,2 @@
 run_flask:
-    env FLASK_APP=new.py flask run
+	env FLASK_APP=app.py flask run
